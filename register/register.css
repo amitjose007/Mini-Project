@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(223, 223, 223);
+    font-family: roboto,arial;
+}
+
+.full-detail{
+    border: 1px solid black;
+    text-align: center;
+    margin:100px;
+    background-color: rgb(160, 158, 158);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+}
